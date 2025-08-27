@@ -1,0 +1,7 @@
+name: cis_5480
+services:
+    cis_5480:
+        build:
+            context: .
+        container_name: cis_5480
+        image: cis_5480
